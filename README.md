@@ -1,29 +1,29 @@
 # React-framework
 
-  基于 Create-react-app、React 16.5.2的React 项目骨架
+  React project skeleton based on Create-react-app, React 16.5.2
 
-## 功能
+## Feature
 
-1、支持预处理器 scss
+1、Support for preprocessor scss
 
-## 启动
+## Use
 
-1、克隆项目
+1、Clone project
   
-  git clone git@xxx.com/git
+  git clone https://github.com/ZinLeo/react-framework.git
 
-2、安装依赖
+2、Installation dependence
 
   npm install | yarn
 
-3、启动
+3、Start
 
   npm start
 
-4、打包
+4、Unpack
 
   npm run build
 
-## 建议
+## Suggestion
 
-1、建议组件名采用 首字母大写 + 驼峰 命名法
+1、The file name use first capitalized and named after the hump.

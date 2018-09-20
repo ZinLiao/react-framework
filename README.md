@@ -14,7 +14,9 @@
 
 2、Installation dependence
 
-    npm install | yarn
+    1、npm install
+    
+    2、yarn
 
 3、Start
 

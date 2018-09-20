@@ -1,0 +1,37 @@
+.Logo {
+  display: inline-block;
+  text-indent: 80px;
+  color: #ffffff;
+  margin: 0;
+  margin-right: 20px;
+  font-size: 18px;
+  line-height: 60px;
+  background: url('../../logo.svg') no-repeat left center;
+}
+.Nav {
+  display: inline-block;
+  height: 60px;
+
+  > li {
+    display: inline-block;
+    height: 100%;
+    
+    margin-right: 10px;
+    text-align: center;
+    line-height: 60px;
+    color: #ffffff;
+
+    a {
+      display: block;
+      padding: 0 10px;
+      width: 100%;
+      height: calc(100% - 4px);
+      color: #ffffff;
+
+      &:hover,
+      &.on {
+        border-bottom: 4px solid #ffffff;
+      }
+    }
+  }
+}

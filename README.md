@@ -10,19 +10,19 @@
 
 1、Clone project
   
-  git clone https://github.com/ZinLeo/react-framework.git
+    git clone https://github.com/ZinLeo/react-framework.git
 
 2、Installation dependence
 
-  npm install | yarn
+    npm install | yarn
 
 3、Start
 
-  npm start
+    npm start
 
 4、Unpack
 
-  npm run build
+    npm run build
 
 ## Suggestion
 

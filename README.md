@@ -12,10 +12,14 @@
   
     git clone https://github.com/ZinLeo/react-framework.git
 
-2、Installation dependence
+2、Setting NPM registry
+
+    npm install -g mirror-config-china --registry=http://registry.npm.taobao.org
+
+3、Installation dependence
 
     1、npm install
-    
+
     2、yarn
 
 3、Start

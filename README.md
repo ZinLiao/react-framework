@@ -5,6 +5,7 @@
 ## Feature
 
 1、Support for preprocessor scss
+
 2、Integrated react-router, default use hashrouter
 
 ## Use
